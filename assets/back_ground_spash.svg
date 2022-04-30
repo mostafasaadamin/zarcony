@@ -1,0 +1,44 @@
+<svg id="Group_24532" data-name="Group 24532" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="667" viewBox="0 0 375 667">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.852" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#493c81"/>
+      <stop offset="1" stop-color="#322763"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6589" data-name="Rectangle 6589" width="375" height="667" fill="url(#radial-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_6562" data-name="Rectangle 6562" width="199" height="137" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_6563" data-name="Rectangle 6563" width="114" height="178" transform="translate(261 489)" fill="#fff"/>
+    </clipPath>
+    <filter id="Path_7519" x="292.523" y="500.908" width="246.713" height="277.177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="375" height="667" fill="url(#radial-gradient)"/>
+  <g id="Mask_Group_73" data-name="Mask Group 73" clip-path="url(#clip-path)">
+    <g id="Mask_Group_71" data-name="Mask Group 71" clip-path="url(#clip-path-2)">
+      <g id="Group_14804" data-name="Group 14804" transform="translate(96.426 136.589) rotate(180)" opacity="0.02">
+        <path id="Path_7519-2" data-name="Path 7519" d="M215.106,738.942c-60.495-15.575-43.984-75.746-43.984-75.746,32.986,44.29,59.865,30.237,59.865,30.237-73.611-42.765-56.438-110.92-56.438-110.92,44.364,59.685,101.394,43.841,101.394,43.841-1.059,22.7,15.845,35.91,30.63,30.094s-5.812-30.094-5.812-30.094c60.274,4.724,88.6,21.742,97.014,27.873-1.1-.016-2.188-.065-3.3-.065q-74.668,0-118.76,45.018-44.147,45.049-44.143,113.362a191.888,191.888,0,0,0,2.188,29.149c-41.513-55.362-37.6-81.967-37.6-81.967,14.662,15.881,40.932,10.986,39.407-4.593S215.106,738.942,215.106,738.942Z" transform="translate(-169.064 -582.513)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Mask_Group_72" data-name="Mask Group 72" clip-path="url(#clip-path-3)">
+      <g id="Group_14803" data-name="Group 14803" transform="translate(301.523 506.908)" opacity="0.02">
+        <g transform="matrix(1, 0, 0, 1, -301.52, -506.91)" filter="url(#Path_7519)">
+          <path id="Path_7519-3" data-name="Path 7519" d="M215.106,738.942c-60.495-15.575-43.984-75.746-43.984-75.746,32.986,44.29,59.865,30.237,59.865,30.237-73.611-42.765-56.438-110.92-56.438-110.92,44.364,59.685,101.394,43.841,101.394,43.841-1.059,22.7,15.845,35.91,30.63,30.094s-5.812-30.094-5.812-30.094c60.274,4.724,88.6,21.742,97.014,27.873-1.1-.016-2.188-.065-3.3-.065q-74.668,0-118.76,45.018-44.147,45.049-44.143,113.362a191.888,191.888,0,0,0,2.188,29.149c-41.513-55.362-37.6-81.967-37.6-81.967,14.662,15.881,40.932,10.986,39.407-4.593S215.106,738.942,215.106,738.942Z" transform="translate(132.46 -75.6)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_74" data-name="Mask Group 74" clip-path="url(#clip-path-2)">
+      <g id="Group_15066" data-name="Group 15066" transform="translate(96.426 136.589) rotate(180)" opacity="0.02">
+        <path id="Path_7719" data-name="Path 7719" d="M215.106,738.942c-60.495-15.575-43.984-75.746-43.984-75.746,32.986,44.29,59.865,30.237,59.865,30.237-73.611-42.765-56.438-110.92-56.438-110.92,44.364,59.685,101.394,43.841,101.394,43.841-1.059,22.7,15.845,35.91,30.63,30.094s-5.812-30.094-5.812-30.094c60.274,4.724,88.6,21.742,97.014,27.873-1.1-.016-2.188-.065-3.3-.065q-74.668,0-118.76,45.018-44.147,45.049-44.143,113.362a191.888,191.888,0,0,0,2.188,29.149c-41.513-55.362-37.6-81.967-37.6-81.967,14.662,15.881,40.932,10.986,39.407-4.593S215.106,738.942,215.106,738.942Z" transform="translate(-169.064 -582.513)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

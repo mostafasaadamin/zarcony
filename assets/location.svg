@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="Button" transform="translate(-290.785 -722)">
+    <g id="Group_15263" data-name="Group 15263">
+      <path id="Bg" d="M23,0A23,23,0,1,1,0,23,23,23,0,0,1,23,0Z" transform="translate(290.785 722)" fill="#e2f8ff"/>
+      <g id="Icon_-_Location" data-name="Icon - Location" transform="translate(303.785 735)">
+        <path id="Vector" d="M5.833,0A5.829,5.829,0,0,0,0,5.833c0,4.375,5.833,10.833,5.833,10.833s5.833-6.458,5.833-10.833A5.829,5.829,0,0,0,5.833,0Zm0,7.917A2.083,2.083,0,1,1,7.917,5.833,2.084,2.084,0,0,1,5.833,7.917Z" transform="translate(4.167 1.667)" fill="#189dc8"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_15133" data-name="Group 15133" transform="translate(-207 -127.759)">
+    <circle id="Ellipse_622" data-name="Ellipse 622" cx="11" cy="11" r="11" transform="translate(207 127.759)" fill="#009fca"/>
+    <g id="photo-camera-interface-symbol-for-button" transform="translate(211.978 134.075)">
+      <path id="Path_7733" data-name="Path 7733" d="M7.8,8.961a1.9,1.9,0,1,1-1.9-1.9A1.905,1.905,0,0,1,7.8,8.961Zm4-2.7v5.406A1.305,1.305,0,0,1,10.5,12.97H1.305A1.305,1.305,0,0,1,0,11.665V6.258A1.305,1.305,0,0,1,1.305,4.953H2.91V4.5A1.142,1.142,0,0,1,4.052,3.36h3.7A1.142,1.142,0,0,1,8.892,4.5v.451H10.5A1.306,1.306,0,0,1,11.8,6.258Zm-3.019,2.7A2.882,2.882,0,1,0,5.9,11.843,2.885,2.885,0,0,0,8.783,8.961Z" transform="translate(0 -3.36)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

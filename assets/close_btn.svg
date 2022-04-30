@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99" height="99" viewBox="0 0 99 99">
+  <defs>
+    <filter id="Rectangle_11" x="0" y="0" width="99" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#2e2e2e" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_11-2" x="0" y="0" width="99" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#2e2e2e" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_15268" data-name="Group 15268" transform="translate(9 -15)">
+    <g id="Group_15177" data-name="Group 15177">
+      <g id="Group_14819" data-name="Group 14819" transform="translate(-25)">
+        <g transform="matrix(1, 0, 0, 1, 16, 15)" filter="url(#Rectangle_11)">
+          <rect id="Rectangle_11-3" data-name="Rectangle 11" width="39" height="39" rx="8" transform="translate(24 24)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Icon_ionic-ios-close" data-name="Icon ionic-ios-close" d="M19.516,17.941l4.753-4.753a1.114,1.114,0,0,0-1.575-1.575l-4.753,4.753-4.753-4.753a1.114,1.114,0,1,0-1.575,1.575l4.753,4.753-4.753,4.753a1.114,1.114,0,1,0,1.575,1.575l4.753-4.753,4.753,4.753a1.114,1.114,0,0,0,1.575-1.575Z" transform="translate(16.215 40.211)" fill="#2e2e2e" stroke="#fff" stroke-width="0.5"/>
+    </g>
+    <g id="Group_15177-2" data-name="Group 15177">
+      <g id="Group_14819-2" data-name="Group 14819" transform="translate(-25)">
+        <g transform="matrix(1, 0, 0, 1, 16, 15)" filter="url(#Rectangle_11-2)">
+          <rect id="Rectangle_11-4" data-name="Rectangle 11" width="39" height="39" rx="8" transform="translate(24 24)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Icon_ionic-ios-close-2" data-name="Icon ionic-ios-close" d="M19.516,17.941l4.753-4.753a1.114,1.114,0,0,0-1.575-1.575l-4.753,4.753-4.753-4.753a1.114,1.114,0,1,0-1.575,1.575l4.753,4.753-4.753,4.753a1.114,1.114,0,1,0,1.575,1.575l4.753-4.753,4.753,4.753a1.114,1.114,0,0,0,1.575-1.575Z" transform="translate(16.215 40.211)" fill="#2e2e2e" stroke="#fff" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
